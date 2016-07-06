@@ -35,7 +35,20 @@ Linux Mint
 ####Examples
 
 #####Search
-
-![Search](MyLib/MyLib/User Guide/search.gif)
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/search.gif)
+#####Check In/Out
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/check%20out%20and%20in.gif)
+#####Check Out but find an overdue book
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/check_out_overdue.gif)
+#####Check in an overdue book, generate a fine record and check Out but find an unpaid fine
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/Overdue%20and%20fine.gif)
+#####Check Loan and check fine
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/Check%20loan%20and%20fine.gif)
+#####Check fine and payment
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/Check%20fine%20and%20fine%20payment.gif)
+####Add/Edit borrower:
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/add_edit_borrower.gif)
+####Check overdue books
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/check_overdue.gif)
 
 
