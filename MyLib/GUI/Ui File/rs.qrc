@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/menu-6.png</file>
+        <file>resources/background1.JPG</file>
+        <file>resources/background2.jpg</file>
+        <file>resources/play-button.png</file>
+        <file>resources/select.png</file>
+        <file>resources/background4.jpg</file>
+        <file>resources/background5.jpg</file>
+        <file>resources/import.png</file>
+        <file>resources/Check_in.png</file>
+        <file>resources/Check_out.png</file>
+        <file>resources/search.png</file>
+        <file>resources/add-book.png</file>
+        <file>resources/book-remove-button.png</file>
+        <file>resources/edit.png</file>
+        <file>resources/user.png</file>
+        <file>resources/create_user.png</file>
+        <file>resources/show.png</file>
+        <file>resources/give-money.png</file>
+        <file>resources/settings.png</file>
+        <file>resources/check_fine.png</file>
+        <file>resources/enter-arrow.png</file>
+        <file>resources/tag-search-filter.png</file>
+        <file>resources/funnel.png</file>
+        <file>resources/upload-1.png</file>
+        <file>resources/select-list.png</file>
+        <file>resources/add.png</file>
+        <file>resources/background6.jpg</file>
+        <file>resources/background3.JPG</file>
+        <file>resources/right-arrow.png</file>
+        <file>resources/forward-arrow.png</file>
+        <file>resources/deadline-head-symbol.png</file>
+        <file>resources/user_search.png</file>
+    </qresource>
+</RCC>

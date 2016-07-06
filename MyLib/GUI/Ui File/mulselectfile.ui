@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form_mulSelectFile</class>
+ <widget class="QWidget" name="Form_mulSelectFile">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>404</width>
+    <height>44</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QSplitter" name="splitter">
+   <property name="geometry">
+    <rect>
+     <x>11</x>
+     <y>11</y>
+     <width>391</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+   <widget class="QTextBrowser" name="textBrowser_file"/>
+   <widget class="QPushButton" name="pushButton_select">
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="rs.qrc">
+      <normaloff>:/new/prefix1/resources/select.png</normaloff>:/new/prefix1/resources/select.png</iconset>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_add">
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="rs.qrc">
+      <normaloff>:/new/prefix1/resources/add.png</normaloff>:/new/prefix1/resources/add.png</iconset>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="rs.qrc"/>
+ </resources>
+ <connections/>
+</ui>
