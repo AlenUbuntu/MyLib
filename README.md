@@ -2,9 +2,9 @@
 a Library Management Software based on PyQt5
 
 ####Design Document
-MyLib/MyLib/Design Document.pdf
+https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/Design%20Document.pdf
 ####User Guide
-MyLib/MyLib/User Guide.pdf
+https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide.pdf
 ####Install Instruction
 #####Framework and third-party library used:
 
