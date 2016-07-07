@@ -34,6 +34,9 @@ Linux Mint
    
 ####Examples
 
+#####Import Data
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/import%20data%201.gif)
+![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/import%20data%202.gif)
 #####Search
 ![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/search.gif)
 #####Check In/Out
@@ -46,9 +49,9 @@ Linux Mint
 ![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/Check%20loan%20and%20fine.gif)
 #####Check fine and payment
 ![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/Check%20fine%20and%20fine%20payment.gif)
-####Add/Edit borrower:
+#####Add/Edit borrower:
 ![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/add_edit_borrower.gif)
-####Check overdue books
+#####Check overdue books
 ![](https://github.com/AlenUbuntu/MyLib/blob/master/MyLib/User%20Guide/check_overdue.gif)
 
 
