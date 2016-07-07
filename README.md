@@ -21,7 +21,7 @@ Linux Mint
 1. go to MyLib/Option/
 
    keyword.csv    --   this is automatically extracted keywords file while importing the data.
-                       It is used for fuzzy-search embedded in the application. Strongly suggested to
+                       It is used for automatic search suggestion embedded in the application. Strongly suggested to
                        import to support full functionality.
                        
   keywordImport.py --  this is a python script which create a table in the Library database and import
