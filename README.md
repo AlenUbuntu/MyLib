@@ -20,15 +20,15 @@ Linux Mint
 
 1. go to MyLib/Option/
 
-   keyword.csv    --   this is automatic extracted keywords while importing the data by the application.
-                       It is used for fuzzy-finder embedded in the application. Strongly suggested to
+   keyword.csv    --   this is automatically extracted keywords file while importing the data.
+                       It is used for fuzzy-search embedded in the application. Strongly suggested to
                        import to support full functionality.
                        
   keywordImport.py --  this is a python script which create a table in the Library database and import
-                       keyword.csv into the database. Strongly suggested to run to support full functionality
+                       keyword.csv into the database. Strongly suggested to run for full functionality support
 
   loan_fine_test.py--  for test purpose only. Do not run!
-2. open a terminal and find the umain.py file. Input following command to start application.
+2. open a terminal and find the umain.py file. Type following command to start application.
 
    python3 uimain.py
    
