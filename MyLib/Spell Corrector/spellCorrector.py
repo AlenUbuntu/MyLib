@@ -17,7 +17,7 @@ class spellCorrector:
         return re.findall('[a-z]+',text.lower())
 
     def train(self,features):
-        model = collections.defaultdict(lambda:1)
+        model = collections.defaultdict(lambda:1)          # The defaultdict and value used here is for smoothing. 
         for f in features:
             model[f] += 1
         return model
